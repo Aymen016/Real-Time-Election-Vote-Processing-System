@@ -79,7 +79,17 @@ The system is designed to handle large-scale election data with high **scalabili
 
 📁 **Project Root Directory**
 
----
+`📁 pycache/` # Cached Python files  
+`📄 Correlation Matrix.png/` # Correlation matrix visualization  
+`📜 LICENSE/` # Project License (MIT)  
+`📄 Real Time Voting System Documentation.pdf/` # Full documentation  
+`📜 addvoter.py/` # Script to add voters  
+`📜 dashboard.py/` # Streamlit dashboard for vote visualization  
+`📜 docker-compose.yml/` # Docker configuration for deployment  
+`📜 main.py/` # Main script handling vote processing  
+`📜 spark-streaming.py/` # Apache Spark streaming script  
+`📄 system architecture.png/` # System architecture diagram  
+`📜 voting.py/` # Voting script  
 
 ---
 
